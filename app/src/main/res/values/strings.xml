@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Logowanie</string>
+    <string name="logowanie">logowanie</string>
+    <string name="nazwa_u_ytkownika">Nazwa użytkownika</string>
+    <string name="wy_wietl_informacje">WYŚWIETL INFORMACJE</string>
+    <string name="zapami_taj">Zapamiętaj</string>
+    <string name="podaj_has_o">Podaj hasło</string>
+</resources>
